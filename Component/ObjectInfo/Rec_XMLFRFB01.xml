@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjectRepository>
+  <Objects>
+    <ObjectName>ctxtBKPF-BLDAT</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtBKPF-BLDAT</StepDescription>
+    <Data>ctxtBKPF-BLDAT</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>Date_document</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtBKPF-BLDAT</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtBKPF-BUKRS</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtBKPF-BUKRS</StepDescription>
+    <Data>ctxtBKPF-BUKRS</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>Societe</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtBKPF-BUKRS</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtBKPF-KURSF</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtBKPF-KURSF</StepDescription>
+    <Data>ctxtBKPF-KURSF</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>Devise/taux</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtBKPF-KURSF</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>BKPF-BELNR</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter BKPF-BELNR</StepDescription>
+    <Data>BKPF-BELNR</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>Nº_piece</PhysicalName>
+    <ObjectId>wnd[0]/usr/txtBKPF-BELNR</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtBKPF-WWERT</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtBKPF-WWERT</StepDescription>
+    <Data>ctxtBKPF-WWERT</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>Date_conversion</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtBKPF-WWERT</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>BKPF-XBLNR</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter BKPF-XBLNR</StepDescription>
+    <Data>BKPF-XBLNR</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>Reference</PhysicalName>
+    <ObjectId>wnd[0]/usr/txtBKPF-XBLNR</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>BKPF-BVORG</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter BKPF-BVORG</StepDescription>
+    <Data>BKPF-BVORG</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>N°_intersoc.</PhysicalName>
+    <ObjectId>wnd[0]/usr/txtBKPF-BVORG</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtRF05A-PARGB</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtRF05A-PARGB</StepDescription>
+    <Data>ctxtRF05A-PARGB</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>DA_partenaire</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtRF05A-PARGB</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtRF05A-NEWBS</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtRF05A-NEWBS</StepDescription>
+    <Data>ctxtRF05A-NEWBS</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>CC</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtRF05A-NEWBS</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtRF05A-NEWKO</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtRF05A-NEWKO</StepDescription>
+    <Data>ctxtRF05A-NEWKO</Data>
+    <Action>Assign</Action>
+    <TCode>FB01</TCode>
+    <PhysicalName>Compte</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtRF05A-NEWKO</ObjectId>
+  </Objects>
+</ObjectRepository>

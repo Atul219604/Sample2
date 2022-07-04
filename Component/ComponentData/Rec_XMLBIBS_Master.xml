@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DataRepository>
+  <Data>
+    <Direct_flights>true</Direct_flights>
+    <Street_x002F_House_number>0002</Street_x002F_House_number>
+    <Country>USA</Country>
+    <E-mail>test@gamil.com</E-mail>
+  </Data>
+</DataRepository>

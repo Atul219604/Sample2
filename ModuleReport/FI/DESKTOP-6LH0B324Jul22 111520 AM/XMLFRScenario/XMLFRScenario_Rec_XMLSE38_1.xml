@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='StepbyStep.css'?>
+<DataRepo>
+  <Data>
+    <Data-Header>Step-Id </Data-Header>
+    <Data-Header>Step-Description </Data-Header>
+    <Data-Header>Object-Name </Data-Header>
+    <Data-Header>Data </Data-Header>
+    <Data-Header>Status </Data-Header>
+    <Data-Header>Screenshot </Data-Header>
+  </Data>
+  <Data>
+    <Data-Cell>1</Data-Cell>
+    <Data-Cell>Enter ctxtRS38M-PROGRAMM</Data-Cell>
+    <Data-Cell>ctxtRS38M-PROGRAMM</Data-Cell>
+    <Data-Cell>SAPMBIBS</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_14.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>2</Data-Cell>
+    <Data-Cell>Click onbtn[8]</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_15.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>3</Data-Cell>
+    <Data-Cell>Click onbtn[19]</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_16.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>4</Data-Cell>
+    <Data-Cell>Click onbtn[15]</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_17.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>5</Data-Cell>
+    <Data-Cell>Select the Menumenu[0]</Data-Cell>
+    <Data-Cell>Between_Fields</Data-Cell>
+    <Data-Cell>true</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_18.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>6</Data-Cell>
+    <Data-Cell>Focus Radio Button RB13</Data-Cell>
+    <Data-Cell>RB13</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_19.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>7</Data-Cell>
+    <Data-Cell>Select the RadioButtonRB13</Data-Cell>
+    <Data-Cell>Select_Other...</Data-Cell>
+    <Data-Cell>true</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_20.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>8</Data-Cell>
+    <Data-Cell>Enter F4</Data-Cell>
+    <Data-Cell>F4</Data-Cell>
+    <Data-Cell>Black</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 111520 AM\XMLFRScenario\Capture_21.png</Data-Cell>
+  </Data>
+</DataRepo>

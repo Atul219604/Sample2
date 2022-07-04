@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjectRepository>
+  <Objects>
+    <ObjectName>CB2</ObjectName>
+    <ObjectType>GuiCheckBox</ObjectType>
+    <StepDescription>Check the checkbox CB2</StepDescription>
+    <Data>CB2</Data>
+    <Action>Check</Action>
+    <TCode>bibs</TCode>
+    <PhysicalName>Direct_flights</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSA_0100_1:SAPLEXAMPLE_ENTRY_SCREEN:0200/subSA_200_2:SAPLEXAMPLE_ENTRY_SCREEN:1200/chkCB2</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>F1</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter F1</StepDescription>
+    <Data>F1</Data>
+    <Action>Assign</Action>
+    <TCode>bibs</TCode>
+    <PhysicalName>Street/House_number</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSA_0100_1:SAPLEXAMPLE_ENTRY_SCREEN:0200/subSA_200_2:SAPLEXAMPLE_ENTRY_SCREEN:1200/txtF1</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>F5</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter F5</StepDescription>
+    <Data>F5</Data>
+    <Action>Assign</Action>
+    <TCode>bibs</TCode>
+    <PhysicalName>Country</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSA_0100_1:SAPLEXAMPLE_ENTRY_SCREEN:0200/subSA_200_2:SAPLEXAMPLE_ENTRY_SCREEN:1200/txtF5</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>F6</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter F6</StepDescription>
+    <Data>F6</Data>
+    <Action>Assign</Action>
+    <TCode>bibs</TCode>
+    <PhysicalName>E-mail</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSA_0100_1:SAPLEXAMPLE_ENTRY_SCREEN:0200/subSA_200_2:SAPLEXAMPLE_ENTRY_SCREEN:1200/txtF6</ObjectId>
+  </Objects>
+</ObjectRepository>

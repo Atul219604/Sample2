@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Reports>
+    <Item TCODE="Rec_XMLME21Na" Completed="0" Incompleted="2" />
+    <Item TCODE="Rec_XMLME22a" Completed="2" Incompleted="0" />
+  </Reports>
+  <Status>
+    <StatusExe ComponentName="Rec_XMLME21Na" Iteration="1" Message="Rec_XMLME21Na Done with Error" ImagePath="C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B324Jul22 111709 AM\XMLScenario\Capture_13.png" StartTime="4Jul22 11:17:15 AM" EndTime="4Jul22 11:18:05 AM" />
+    <StatusExe ComponentName="Rec_XMLME22a" Iteration="1" Message="Rec_XMLME22a completed successfully" ImagePath="C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B324Jul22 111709 AM\XMLScenario\Capture_17.png" StartTime="4Jul22 11:18:05 AM" EndTime="4Jul22 11:18:19 AM" />
+    <StatusExe ComponentName="Rec_XMLME21Na" Iteration="2" Message="Rec_XMLME21Na Done with Error" ImagePath="C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B324Jul22 111709 AM\XMLScenario\Capture_30.png" StartTime="4Jul22 11:18:23 AM" EndTime="4Jul22 11:19:16 AM" />
+    <StatusExe ComponentName="Rec_XMLME22a" Iteration="2" Message="Rec_XMLME22a completed successfully" ImagePath="C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B324Jul22 111709 AM\XMLScenario\Capture_34.png" StartTime="4Jul22 11:19:16 AM" EndTime="4Jul22 11:19:30 AM" />
+  </Status>
+</Items>

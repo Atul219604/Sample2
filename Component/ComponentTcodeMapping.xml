@@ -1,0 +1,26 @@
+<TcodeInfo>
+  <Tcode name="bibs" compNames="Rec_TC01,Rec_bibs,Rec_Bibstest,Rec_BibsScroll,Rec_SAPguiSampleRecording,Rec_SSOWinResize,Rec_ObjectChecking,Rec_XMLBIBS" />
+  <Tcode name="F.14" compNames="Rec_SampleF14" />
+  <Tcode name="SE37" compNames="Rec_TableRow" />
+  <Tcode name="F110" compNames="" />
+  <Tcode name="SE38" compNames="Rec_ABAPHirearchy,Rec_XMLSE38" />
+  <Tcode name="dwdm" compNames="Rec_DWDM,Rec_Contextmenu,Rec_DWDMXML1,Rec_SSOdwdmScript,Rec_WinResize1,Rec_CompNameStrtAlphabetAlone,Rec_xmlexcelreport" />
+  <Tcode name="Login" compNames="Rec_DWDMXML1,Rec_DynamicSelection1,Rec_ME22Multi,Rec_PRMultiflowMultiInline,Rec_SAPGuiLoginStpExlRpt,Rec_LoginSteps,Rec_NewPRCreation,Rec_LoginStepsRecording,Rec_LoginStepRecord,Rec_LoginStepsRecord,Rec_chktstME21N,Rec_Test213" />
+  <Tcode name="QA32" compNames="Rec_DynmicSeletion1,Rec_DynamicSelection1,Rec_DynSeln1,Rec_QA32RRCopy,Rec_QA32RR1,Rec_QA32RRCheck1,Rec_QA32RRFun,Rec_QA32ButtonClick,Rec_Test123,Rec_CheckQA32" />
+  <Tcode name="ME21N" compNames="Rec_ME21NMultiline,AtulME21N_ME21N,Rec_ME21NMultiline1,Rec_POCreationMultiline,Rec_MultiPoCreation,Rec_Check1ME21N,Rec_RashME51NXL,Rec_chktstme21n,Rec_tstchkme21n,Rec_testchkme21n,Rec_me21ntestchk,Rec_me21Ntesting,Rec_testrecording,Rec_POCreation,Rec_ComponentNameStartAlphabetAlone,Rec_RepeatFields,Rec_XMLME21N,Rec_XMLME21Na,Rec_XLME21N" />
+  <Tcode name="DWDM" compNames="Rec_ScorllTest1" />
+  <Tcode name="VA01" compNames="TestSO_VA01,Rec_VA01" />
+  <Tcode name="ME22" compNames="Rec_ME22,Rec_ME22Multi,Rec_TestME22,Rec_CheckME22,Rec_Check1ME22,Rec_SSOTest1,Rec_XMLME22,Rec_XMLME22a,Rec_XMLME22b" />
+  <Tcode name="KO8G" compNames="Rec_KO8GControlArea" />
+  <Tcode name="VL01N" compNames="Rec_VL01NMtest,Rec_VL01NCheck" />
+  <Tcode name="MIGO" compNames="Rec_MIGODummy,Rec_MIGOML" />
+  <Tcode name="ME51N" compNames="Rec_ME51NML1,Rec_CreatePR1Line,Rec_PRCreation1Line,Rec_NewPRCreation,Rec_CheckME51N,Rec_ME51NDelDate1,Rec_XMLME51N" />
+  <Tcode name="ME29N" compNames="Rec_ME29NML" />
+  <Tcode name="SE16N" compNames="Rec_NewScript1" />
+  <Tcode name="ME53N" compNames="Rec_PRDisplay,Rec_Checkme53N,Rec_CheckME53N" />
+  <Tcode name="co11n" compNames="Rec_CO11NFunction" />
+  <Tcode name="KO88" compNames="Rec_TestKO88" />
+  <Tcode name="BIBS" compNames="Rec_SAPguiXlReporting,Rec_NewVersionRecTesting" />
+  <Tcode name="VA03" compNames="Rec_VA03" />
+  <Tcode name="FB01" compNames="Rec_XMLFRFB01" />
+</TcodeInfo>

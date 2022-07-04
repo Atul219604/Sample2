@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjectRepository>
+  <Objects>
+    <ObjectName>ctxtRM06E-BSTNR</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtRM06E-BSTNR</StepDescription>
+    <Data>ctxtRM06E-BSTNR</Data>
+    <Action>Assign</Action>
+    <TCode>ME22</TCode>
+    <PhysicalName>Purchase_order</PhysicalName>
+    <ObjectId>wnd[0]/usr/ctxtRM06E-BSTNR</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>RM06E-BSTNR</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Focus CText RM06E-BSTNR</StepDescription>
+    <Action>Assign</Action>
+    <TCode>ME22</TCode>
+    <ObjectId>wnd[0]/usr/ctxtRM06E-BSTNR</ObjectId>
+  </Objects>
+</ObjectRepository>

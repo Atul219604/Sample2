@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='FailureReport.css'?>
+<DataRepo>
+  <Data>
+    <Data-Header>ModuleName </Data-Header>
+    <Data-Header>ScenarioName </Data-Header>
+    <Data-Header>ScriptName </Data-Header>
+    <Data-Header>StepId </Data-Header>
+    <Data-Header>Scriptline </Data-Header>
+    <Data-Header>Description </Data-Header>
+  </Data>
+  <Data>
+    <Data-Cell>MM</Data-Cell>
+    <Data-Cell>XMLScenario</Data-Cell>
+    <Data-Cell>XMLME21Na</Data-Cell>
+    <Data-Cell>2</Data-Cell>
+    <Data-Cell>CText("Purch._Org.").CText=Purch._Org.</Data-Cell>
+    <Data-Cell>Enter ctxtMEPO1222-EKORGFailed</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>MM</Data-Cell>
+    <Data-Cell>XMLScenario</Data-Cell>
+    <Data-Cell>XMLME21Na</Data-Cell>
+    <Data-Cell>2</Data-Cell>
+    <Data-Cell>CText("Purch._Org.").CText=Purch._Org.</Data-Cell>
+    <Data-Cell>Enter ctxtMEPO1222-EKORGFailed</Data-Cell>
+  </Data>
+</DataRepo>

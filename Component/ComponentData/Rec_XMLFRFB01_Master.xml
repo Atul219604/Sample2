@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DataRepository>
+  <Data>
+    <Date_document>01.07.2022</Date_document>
+    <Societe>2163</Societe>
+    <Devise_x002F_taux />
+    <N_x00BA__piece>1234567</N_x00BA__piece>
+    <Date_conversion />
+    <Reference>Test1</Reference>
+    <N_x00B0__intersoc. />
+    <DA_partenaire />
+    <CC>40</CC>
+    <Compte>Check</Compte>
+  </Data>
+</DataRepository>

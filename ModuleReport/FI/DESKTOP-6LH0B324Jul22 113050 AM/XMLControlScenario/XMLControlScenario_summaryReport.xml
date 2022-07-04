@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='SummaryReport.css'?>
+<DataRepo>
+  <Data>
+    <Data-Header>T-code </Data-Header>
+    <Data-Header>Message </Data-Header>
+    <Data-Header>Status </Data-Header>
+    <Data-Header>Step-Count </Data-Header>
+    <Data-Header>Pass </Data-Header>
+    <Data-Header>Fail </Data-Header>
+    <Data-Header>Execution-Status </Data-Header>
+    <Data-Header>Iteration </Data-Header>
+    <Data-Header>Start-Time </Data-Header>
+    <Data-Header>End-Time </Data-Header>
+  </Data>
+  <Data>
+    <Data-Cell>Rec_XMLBIBS</Data-Cell>
+    <Data-Cell>Rec_XMLBIBS completed successfully</Data-Cell>
+    <Data-Cell>Success</Data-Cell>
+    <Data-Cell>4</Data-Cell>
+    <Data-Cell>4</Data-Cell>
+    <Data-Cell>0</Data-Cell>
+    <Data-Cell>Executed</Data-Cell>
+    <Data-Cell>1</Data-Cell>
+    <Data-Cell>4Jul22 11:31:38 AM</Data-Cell>
+    <Data-Cell>4Jul22 11:31:42 AM</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>Rec_XMLSE38</Data-Cell>
+    <Data-Cell>Rec_XMLSE38 completed successfully</Data-Cell>
+    <Data-Cell>Success</Data-Cell>
+    <Data-Cell>8</Data-Cell>
+    <Data-Cell>8</Data-Cell>
+    <Data-Cell>0</Data-Cell>
+    <Data-Cell>Executed</Data-Cell>
+    <Data-Cell>1</Data-Cell>
+    <Data-Cell>4Jul22 11:31:46 AM</Data-Cell>
+    <Data-Cell>4Jul22 11:32:01 AM</Data-Cell>
+  </Data>
+</DataRepo>

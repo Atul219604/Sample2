@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Data>
+  <ScenarioData>
+    <ModuleName>FI</ModuleName>
+    <Scenarioname>XMLFRScenario</Scenarioname>
+    <Status>Pass</Status>
+  </ScenarioData>
+  <ScenarioData>
+    <ModuleName>FI</ModuleName>
+    <Scenarioname>XMLControlScenario</Scenarioname>
+    <Status>Pass</Status>
+  </ScenarioData>
+  <ScenarioData>
+    <ModuleName>MM</ModuleName>
+    <Scenarioname>XMLScenario</Scenarioname>
+    <Status>Fail</Status>
+  </ScenarioData>
+  <ScenarioData>
+    <ModuleName>MM</ModuleName>
+    <Scenarioname>XMLControlScenario</Scenarioname>
+    <Status>Pass</Status>
+  </ScenarioData>
+</Data>

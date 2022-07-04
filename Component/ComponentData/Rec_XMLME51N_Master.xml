@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DataRepository>
+  <Data>
+    <shell xml:space="preserve"> </shell>
+    <BNFPO xml:space="preserve"> </BNFPO>
+    <KNTTP xml:space="preserve"> </KNTTP>
+    <EPSTP>555</EPSTP>
+    <MATNR>10</MATNR>
+    <MENGE xml:space="preserve"> </MENGE>
+    <WGBEZ>1010</WGBEZ>
+    <NAME1>NAME1</NAME1>
+    <shell_1>30.07.2022</shell_1>
+    <EEIND>20220715,20220715</EEIND>
+  </Data>
+</DataRepository>

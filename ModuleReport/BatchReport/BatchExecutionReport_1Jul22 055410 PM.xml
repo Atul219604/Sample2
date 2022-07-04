@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='BatchReport.css'?>
+<DataRepo>
+  <Data>
+    <Data-Header>TestCase-ScenarioName </Data-Header>
+    <Data-Header>Status </Data-Header>
+    <Data-Header>Start-Time </Data-Header>
+    <Data-Header>End-Time </Data-Header>
+    <Data-Header>Module </Data-Header>
+  </Data>
+  <Data>
+    <Data-Cell>XMLFRScenario</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>1Jul22 5:50:06 PM</Data-Cell>
+    <Data-Cell>1Jul22 5:50:41 PM</Data-Cell>
+    <Data-Cell>FI</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>XMLControlScenario</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>1Jul22 5:50:47 PM</Data-Cell>
+    <Data-Cell>1Jul22 5:51:24 PM</Data-Cell>
+    <Data-Cell>FI</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>XMLScenario</Data-Cell>
+    <Data-Cell>Fail</Data-Cell>
+    <Data-Cell>1Jul22 5:51:49 PM</Data-Cell>
+    <Data-Cell>1Jul22 5:53:16 PM</Data-Cell>
+    <Data-Cell>MM</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>XMLControlScenario</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>1Jul22 5:53:23 PM</Data-Cell>
+    <Data-Cell>1Jul22 5:53:57 PM</Data-Cell>
+    <Data-Cell>MM</Data-Cell>
+  </Data>
+</DataRepo>

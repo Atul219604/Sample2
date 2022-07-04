@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DataRepository>
+  <Data>
+    <ctxtRS38M-PROGRAMM>SAPMBIBS</ctxtRS38M-PROGRAMM>
+    <Between_Fields>true</Between_Fields>
+    <Select_Other...>true</Select_Other...>
+    <F4>Black</F4>
+  </Data>
+</DataRepository>

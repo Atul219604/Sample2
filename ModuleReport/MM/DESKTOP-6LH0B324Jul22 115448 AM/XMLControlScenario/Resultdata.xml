@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Reports>
+    <Item TCODE="Rec_XMLBIBS" Completed="1" Incompleted="0" />
+    <Item TCODE="Rec_XMLSE38" Completed="1" Incompleted="0" />
+  </Reports>
+  <Status>
+    <StatusExe ComponentName="Rec_XMLBIBS" Iteration="1" Message="Rec_XMLBIBS completed successfully" ImagePath="C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B324Jul22 115448 AM\XMLControlScenario\Capture_6.png" StartTime="4Jul22 11:56:22 AM" EndTime="4Jul22 11:56:25 AM" />
+    <StatusExe ComponentName="Rec_XMLSE38" Iteration="1" Message="Rec_XMLSE38 completed successfully" ImagePath="C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B324Jul22 115448 AM\XMLControlScenario\Capture_16.png" StartTime="4Jul22 11:56:29 AM" EndTime="4Jul22 11:56:45 AM" />
+  </Status>
+</Items>

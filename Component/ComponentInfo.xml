@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ComponentName>Rec_CheckME51N</ComponentName>
+    <Variable>Set </Variable>
+    <Value>CheckPR</Value>
+  </Table1>
+  <Table1>
+    <ComponentName>Rec_CheckME51N</ComponentName>
+    <Variable>Set </Variable>
+    <Value>CheckPRNum</Value>
+  </Table1>
+  <Table1>
+    <ComponentName>Rec_Check1ME21N</ComponentName>
+    <Variable>Set </Variable>
+    <Value>CheckPO</Value>
+  </Table1>
+  <Table1>
+    <ComponentName>Rec_ME21NMultiline1</ComponentName>
+    <Variable>Set </Variable>
+    <Value>PONUMBERML</Value>
+  </Table1>
+  <Table1>
+    <ComponentName>VA01</ComponentName>
+    <Variable>Set </Variable>
+    <Value>SalesORderNum</Value>
+  </Table1>
+  <Table1>
+    <ComponentName>Rec_POCreation</ComponentName>
+    <Variable>var12</Variable>
+    <Value>"Hello"</Value>
+  </Table1>
+  <Table1>
+    <ComponentName>Rec_XMLME21Na</ComponentName>
+    <Variable>Set </Variable>
+    <Value>XMLPONUM</Value>
+  </Table1>
+  <Table1>
+    <ComponentName>Rec_XMLME22b</ComponentName>
+    <Variable>PONUM</Variable>
+    <Value>RM06E-BSTNR</Value>
+  </Table1>
+</NewDataSet>

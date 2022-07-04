@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='StepbyStep.css'?>
+<DataRepo>
+  <Data>
+    <Data-Header>Step-Id </Data-Header>
+    <Data-Header>Step-Description </Data-Header>
+    <Data-Header>Object-Name </Data-Header>
+    <Data-Header>Data </Data-Header>
+    <Data-Header>Status </Data-Header>
+    <Data-Header>Screenshot </Data-Header>
+  </Data>
+  <Data>
+    <Data-Cell>1</Data-Cell>
+    <Data-Cell>Enter ctxtRM06E-BSTNR</Data-Cell>
+    <Data-Cell>Purchase_order</Data-Cell>
+    <Data-Cell>4500002519</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B321Jul22 055149 PM\XMLScenario\Capture_31.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>2</Data-Cell>
+    <Data-Cell>Click on Enter</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B321Jul22 055149 PM\XMLScenario\Capture_32.png</Data-Cell>
+  </Data>
+</DataRepo>

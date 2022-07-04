@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjectRepository>
+  <Objects>
+    <ObjectName>ctxtMEPO_TOPLINE-SUPERFIELD</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO_TOPLINE-SUPERFIELD</StepDescription>
+    <Data>ctxtMEPO_TOPLINE-SUPERFIELD</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB0:SAPLMEGUI:0030/subSUB1:SAPLMEGUI:1105/ctxtMEPO_TOPLINE-SUPERFIELD</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1222-EKORG</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO1222-EKORG</StepDescription>
+    <Data>ctxtMEPO1222-EKORG</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName>Purch._Org.</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1102/tabsHEADER_DETAIL/tabpTABHDT8/ssubTABSTRIPCONTROL2SUB:SAPLMEGUI:1221/ctxtMEPO1222-EKORG</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1222-EKGRP</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO1222-EKGRP</StepDescription>
+    <Data>ctxtMEPO1222-EKGRP</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName>Purch._Group</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1102/tabsHEADER_DETAIL/tabpTABHDT8/ssubTABSTRIPCONTROL2SUB:SAPLMEGUI:1221/ctxtMEPO1222-EKGRP</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1222-BUKRS</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO1222-BUKRS</StepDescription>
+    <Data>ctxtMEPO1222-BUKRS</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName>Company_Code</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1102/tabsHEADER_DETAIL/tabpTABHDT8/ssubTABSTRIPCONTROL2SUB:SAPLMEGUI:1221/ctxtMEPO1222-BUKRS</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>MEPO1211-EBELP[1,0]</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter MEPO1211-EBELP[1,0]</StepDescription>
+    <Data>MEPO1211-EBELP[1,0]</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB2:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1211/tblSAPLMEGUITC_1211/txtMEPO1211-EBELP[1,0]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1211-EMATN[5,0]</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO1211-EMATN[5,0]</StepDescription>
+    <Data>ctxtMEPO1211-EMATN[5,0]</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB2:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1211/tblSAPLMEGUITC_1211/ctxtMEPO1211-EMATN[5,0]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>MEPO1211-MENGE[7,0]</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter MEPO1211-MENGE[7,0]</StepDescription>
+    <Data>MEPO1211-MENGE[7,0]</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB2:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1211/tblSAPLMEGUITC_1211/txtMEPO1211-MENGE[7,0]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1211-EEIND[11,0]</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO1211-EEIND[11,0]</StepDescription>
+    <Data>ctxtMEPO1211-EEIND[11,0]</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB2:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1211/tblSAPLMEGUITC_1211/ctxtMEPO1211-EEIND[11,0]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1211-NAME1[17,0]</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO1211-NAME1[17,0]</StepDescription>
+    <Data>ctxtMEPO1211-NAME1[17,0]</Data>
+    <Action>Assign</Action>
+    <TCode>ME21N</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB2:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1211/tblSAPLMEGUITC_1211/ctxtMEPO1211-NAME1[17,0]</ObjectId>
+  </Objects>
+</ObjectRepository>

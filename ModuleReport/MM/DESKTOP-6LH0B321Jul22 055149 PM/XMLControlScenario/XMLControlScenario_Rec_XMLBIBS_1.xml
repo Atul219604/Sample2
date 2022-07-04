@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='StepbyStep.css'?>
+<DataRepo>
+  <Data>
+    <Data-Header>Step-Id </Data-Header>
+    <Data-Header>Step-Description </Data-Header>
+    <Data-Header>Object-Name </Data-Header>
+    <Data-Header>Data </Data-Header>
+    <Data-Header>Status </Data-Header>
+    <Data-Header>Screenshot </Data-Header>
+  </Data>
+  <Data>
+    <Data-Cell>1</Data-Cell>
+    <Data-Cell>Check the checkbox CB2</Data-Cell>
+    <Data-Cell>Direct_flights</Data-Cell>
+    <Data-Cell>true</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B321Jul22 055149 PM\XMLControlScenario\Capture_1.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>2</Data-Cell>
+    <Data-Cell>Enter F1</Data-Cell>
+    <Data-Cell>Street/House_number</Data-Cell>
+    <Data-Cell>0002</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B321Jul22 055149 PM\XMLControlScenario\Capture_2.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>3</Data-Cell>
+    <Data-Cell>Enter F5</Data-Cell>
+    <Data-Cell>Country</Data-Cell>
+    <Data-Cell>USA</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B321Jul22 055149 PM\XMLControlScenario\Capture_3.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>4</Data-Cell>
+    <Data-Cell>Enter F6</Data-Cell>
+    <Data-Cell>E-mail</Data-Cell>
+    <Data-Cell>test@gamil.com</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\MM\DESKTOP-6LH0B321Jul22 055149 PM\XMLControlScenario\Capture_4.png</Data-Cell>
+  </Data>
+</DataRepo>

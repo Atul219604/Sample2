@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MM>
+  <XMLScenario>
+    <ModuleName>MM</ModuleName>
+    <ScenarioName>XMLScenario</ScenarioName>
+    <ScriptName>XMLME21Na</ScriptName>
+    <StepId>2</StepId>
+    <Scriptline>CText("Purch._Org.").CText=Purch._Org.</Scriptline>
+    <Description>Enter ctxtMEPO1222-EKORGFailed</Description>
+  </XMLScenario>
+  <XMLScenario>
+    <ModuleName>MM</ModuleName>
+    <ScenarioName>XMLScenario</ScenarioName>
+    <ScriptName>XMLME21Na</ScriptName>
+    <StepId>2</StepId>
+    <Scriptline>CText("Purch._Org.").CText=Purch._Org.</Scriptline>
+    <Description>Enter ctxtMEPO1222-EKORGFailed</Description>
+  </XMLScenario>
+</MM>

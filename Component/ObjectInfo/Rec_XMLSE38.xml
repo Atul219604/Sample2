@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjectRepository>
+  <Objects>
+    <ObjectName>ctxtRS38M-PROGRAMM</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtRS38M-PROGRAMM</StepDescription>
+    <Data>ctxtRS38M-PROGRAMM</Data>
+    <Action>Assign</Action>
+    <TCode>SE38</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/ctxtRS38M-PROGRAMM</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>btn[8]</ObjectName>
+    <ObjectType>GuiButton</ObjectType>
+    <StepDescription>Click Button btn[8]</StepDescription>
+    <Action>Click</Action>
+    <TCode>SE38</TCode>
+    <ObjectId>wnd[0]/tbar[1]/btn[8]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>btn[19]</ObjectName>
+    <ObjectType>GuiButton</ObjectType>
+    <StepDescription>Click Button btn[19]</StepDescription>
+    <Action>Click</Action>
+    <TCode>SE38</TCode>
+    <ObjectId>wnd[0]/tbar[1]/btn[19]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>btn[15]</ObjectName>
+    <ObjectType>GuiButton</ObjectType>
+    <StepDescription>Click Button btn[15]</StepDescription>
+    <Action>Click</Action>
+    <TCode>SE38</TCode>
+    <ObjectId>wnd[0]/tbar[0]/btn[15]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>menu[0]</ObjectName>
+    <ObjectType>GuiMenu</ObjectType>
+    <StepDescription>Select the Menumenu[0]</StepDescription>
+    <Data>menu[0]</Data>
+    <Action>Select</Action>
+    <TCode>SE38</TCode>
+    <PhysicalName>Between_Fields</PhysicalName>
+    <ObjectId>wnd[0]/mbar/menu[1]/menu[1]/menu[0]</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>RB13</ObjectName>
+    <ObjectType>GuiRadioButton</ObjectType>
+    <StepDescription>Focus Radio Button RB13</StepDescription>
+    <Action>Assign</Action>
+    <TCode>SE38</TCode>
+    <ObjectId>wnd[0]/usr/radRB13</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>RB13</ObjectName>
+    <ObjectType>GuiRadioButton</ObjectType>
+    <StepDescription>Select the RadioButtonRB13</StepDescription>
+    <Data>RB13</Data>
+    <Action>Select</Action>
+    <TCode>SE38</TCode>
+    <PhysicalName>Select_Other...</PhysicalName>
+    <ObjectId>wnd[0]/usr/radRB13</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>F4</ObjectName>
+    <ObjectType>GuiTextField</ObjectType>
+    <StepDescription>Enter F4</StepDescription>
+    <Data>F4</Data>
+    <Action>Assign</Action>
+    <TCode>SE38</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/txtF4</ObjectId>
+  </Objects>
+</ObjectRepository>

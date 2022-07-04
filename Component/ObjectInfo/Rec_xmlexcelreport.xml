@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjectRepository>
+  <Objects>
+    <ObjectName>shell</ObjectName>
+    <ObjectType>GuiTree</ObjectType>
+    <StepDescription>DoubleClick the Tree shell</StepDescription>
+    <Data>shell</Data>
+    <Action>DoubleClick</Action>
+    <TCode>dwdm</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/shellcont/shell</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>btn[5]</ObjectName>
+    <ObjectType>GuiButton</ObjectType>
+    <StepDescription>Click Button btn[5]</StepDescription>
+    <Action>Click</Action>
+    <TCode>dwdm</TCode>
+    <ObjectId>wnd[0]/tbar[1]/btn[5]</ObjectId>
+  </Objects>
+</ObjectRepository>

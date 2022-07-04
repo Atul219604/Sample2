@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='StepbyStep.css'?>
+<DataRepo>
+  <Data>
+    <Data-Header>Step-Id </Data-Header>
+    <Data-Header>Step-Description </Data-Header>
+    <Data-Header>Object-Name </Data-Header>
+    <Data-Header>Data </Data-Header>
+    <Data-Header>Status </Data-Header>
+    <Data-Header>Screenshot </Data-Header>
+  </Data>
+  <Data>
+    <Data-Cell>1</Data-Cell>
+    <Data-Cell>Enter ctxtBKPF-BLDAT</Data-Cell>
+    <Data-Cell>Date_document</Data-Cell>
+    <Data-Cell>01.07.2022</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_1.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>2</Data-Cell>
+    <Data-Cell>Enter ctxtBKPF-BUKRS</Data-Cell>
+    <Data-Cell>Societe</Data-Cell>
+    <Data-Cell>2163</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_2.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>3</Data-Cell>
+    <Data-Cell>Enter ctxtBKPF-KURSF</Data-Cell>
+    <Data-Cell>Devise/taux</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_3.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>4</Data-Cell>
+    <Data-Cell>Enter BKPF-BELNR</Data-Cell>
+    <Data-Cell>Nº_piece</Data-Cell>
+    <Data-Cell>1234567</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_4.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>5</Data-Cell>
+    <Data-Cell>Enter ctxtBKPF-WWERT</Data-Cell>
+    <Data-Cell>Date_conversion</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_5.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>6</Data-Cell>
+    <Data-Cell>Enter BKPF-XBLNR</Data-Cell>
+    <Data-Cell>Reference</Data-Cell>
+    <Data-Cell>Test1</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_6.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>7</Data-Cell>
+    <Data-Cell>Enter BKPF-BVORG</Data-Cell>
+    <Data-Cell>N°_intersoc.</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_7.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>8</Data-Cell>
+    <Data-Cell>Enter ctxtRF05A-PARGB</Data-Cell>
+    <Data-Cell>DA_partenaire</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_8.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>9</Data-Cell>
+    <Data-Cell>Enter ctxtRF05A-NEWBS</Data-Cell>
+    <Data-Cell>CC</Data-Cell>
+    <Data-Cell>40</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_9.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>10</Data-Cell>
+    <Data-Cell>Enter ctxtRF05A-NEWKO</Data-Cell>
+    <Data-Cell>Compte</Data-Cell>
+    <Data-Cell>Check</Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_10.png</Data-Cell>
+  </Data>
+  <Data>
+    <Data-Cell>11</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>RF05A-NEWUM</Data-Cell>
+    <Data-Cell>
+    </Data-Cell>
+    <Data-Cell>Pass</Data-Cell>
+    <Data-Cell>C:\Atul_XML_Recording\ModuleReport\FI\DESKTOP-6LH0B324Jul22 102918 AM\XMLFRScenario\Capture_11.png</Data-Cell>
+  </Data>
+</DataRepo>
